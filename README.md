@@ -1,6 +1,7 @@
-# Interpretable machine learning
+# Interpretable machine learning 한국어 번역본
 
-Explaining the decisions and behaviour of machine learning models.
+Christoph Molnar의 Interpretable machine learning(https://christophm.github.io/interpretable-ml-book/)의 번역본을 제공합니다
+(2019년 3월 14일부터 작업할 예정입니다).
 
 [![Build Status](https://travis-ci.org/christophM/interpretable-ml-book.svg?branch=master)](https://travis-ci.org/christophM/interpretable-ml-book)
 
